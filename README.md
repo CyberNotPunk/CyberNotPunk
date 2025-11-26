@@ -26,8 +26,9 @@
 <img alt="Bash" align="center" src="https://img.shields.io/badge/Bash-white?style=for-the-badge&logo=gnubash&logoColor=white&logoSize=auto&labelColor=grey&color=grey" style="padding-right:10px;"/>
 </br></br>
 <h2>------ Why ------</h2>
-<img width="250px" height="210px" style="display: block; margin-left: auto; margin-right: auto;" src="walking.gif"/>
+<img width="250px" height="210px" style="display: block; margin-left: auto; margin-right: auto;" src="whying.gif"/>
+<p>Because I  strongly believe that the Internet should be safe and free from anyone with bad intentions, that tools for protecting your digital activity should be free and easy to use</p>
 </br></br>
-<h1>See You ByeBye Baby</h1>
+<h1>See you on the Net and browse safely baby</h1>
 <img width="250px" height="210px" style="display: block; margin-left: auto; margin-right: auto;" src="winknwink.gif"/>
 </div>
