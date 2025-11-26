@@ -1,7 +1,5 @@
 <div align="center">
-
-![Fallout Terminal](https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif)
-
+  
 # **Personnal Terminal Link**
 **> GRANTED ACCESS : [CyberNotPunk]**
 **> SECURITY LEVEL : ★★★★★**
@@ -10,9 +8,9 @@
 
 ---
 
-![Vault Boy Approved](./assets/reading.gif)
+<img width="150px" height="160px" style="display: block; margin-left: auto; margin-right: auto;" src="chilling.gif"/>
 
-</div>
+
 
 ---
 
@@ -27,7 +25,6 @@
 - **Favorite weapons :** [[Python], [PHP], [Bash], [Powershell]]
 
 ---
-
 ---
 
 ## **💾 PROJETS CLASSIFIÉS**
@@ -56,5 +53,5 @@
 **> Farewell, Vault Dweller.**
 
 ![Farewell](./assets/winkwink.gif)
-
+</div>
 </div>
