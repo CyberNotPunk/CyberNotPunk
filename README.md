@@ -3,12 +3,13 @@
 </p>
 <h1 align="center" font-size="50px"> <b>------ CyberNotPunk ------</b> </h1> 
 </br>
-
-<h2>About Me</h2> 
-
+<div align="center"> 
+<h2>------ About Me ------</h2> 
+<img width="250px" height="210px" style="display: block; margin-left: auto; margin-right: auto;" src="chilling.gif"/>
 <p>Always been a geek (even when it wasn't cool). Hooked to cyber since WatchDogs (back when Ubisoft was relevant).</br>IBM Addict and peace enjoyer</p>
 </br>
-<h2>My Skills</h2> 
+<h2>------ My Skills ------</h2>
+<img width="250px" height="210px" style="display: block; margin-left: auto; margin-right: auto;" src="chilling.gif"/>
 <img alt="HTML5" align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="padding-right:30px;"/>
 <img alt="CSS3" align="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="padding-right:10px;"/>
 <img alt="SASS" align="left" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" style="padding-right:10px;"/>
@@ -16,11 +17,15 @@
 <img alt="pythn" align="left" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue&logoSize=auto" style="padding-right:10px;"/>
 <img alt="php" align="left" src="https://img.shields.io/badge/PHP-violet?style=for-the-badge&logo=php&logoColor=blue&logoSize=auto" style="padding-right:10px";/>
 </br></br>
-<h2>Frameworks</h2>
+<h2>------ Frameworks ------</h2>
+<img width="250px" height="210px" style="display: block; margin-left: auto; margin-right: auto;" src="chilling.gif"/>
 <img alt="Docker" align="left" src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto&labelColor=blue&color=blue" style="padding-right:10px;"/>
 <img alt="Shell" align="left" src="https://img.shields.io/badge/Shell-white?style=for-the-badge&logo=Shell&logoColor=white&logoSize=auto&labelColor=grey&color=grey" style="padding-right:10px;"/>
 <img alt="Bash" align="left" src="https://img.shields.io/badge/Bash-white?style=for-the-badge&logo=gnubash&logoColor=white&logoSize=auto&labelColor=grey&color=grey" style="padding-right:10px;"/>
 </br></br>
-<h2>Why</h2>
+<h2>------ Why ------</h2>
+<img width="250px" height="210px" style="display: block; margin-left: auto; margin-right: auto;" src="walking.gif"/>
 </br></br>
 <h1>See You ByeBye Baby</h1>
+<img width="250px" height="210px" style="display: block; margin-left: auto; margin-right: auto;" src="winkwink.gif"/>
+</div>
