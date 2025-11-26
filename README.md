@@ -6,7 +6,7 @@
 <div align="center"> 
 <h2>------ About Me ------</h2> 
 <img width="250px" height="210px" style="display: block; margin-left: auto; margin-right: auto;" src="chilling.gif"/>
-<p>Always been a geek (even when it wasn't cool). Hooked to cyber since WatchDogs (back when Ubisoft was relevant).</br>IBM Addict and peace enjoyer</p>
+<p>Always been a geek (even when it wasn't cool). Hooked to cyber since WatchDogs (back when Ubisoft was relevant)</p>
 </br>
 <h2>------ My Skills ------</h2>
 <img width="250px" height="210px" style="display: block; margin-left: auto; margin-right: auto;" src="stronging.gif"/>
